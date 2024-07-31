@@ -29,22 +29,40 @@ This repository provides low-level access to the peripherals of the STM32F446RE 
 # Directory Structure
 stm32f446re_drivers/
 ├── drivers/
+
 │   ├── inc/
+
 │   │   ├── gpio.h
+
 │   │   ├── i2c.h
+
 │   │   ├── spi.h
+
 │   │   ├── usart.h
+
 │   │   └── rcc.h
+
 │   └── src/
+
 │       ├── gpio.c
+
 │       ├── i2c.c
+
 │       ├── spi.c
+
 │       ├── usart.c
+
 │       └── rcc.c
+
 ├── examples/
+
 │   ├── gpio_example.c
+
 │   ├── i2c_example.c
+
 │   ├── spi_example.c
+
+
 │   ├── usart_example.c
 │   └── rcc_example.c
 └── README.md
