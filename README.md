@@ -67,3 +67,8 @@ stm32f446re_drivers/
 │   └── rcc_example.c
 └── README.md
 
+# Getting Started
+1) Clone the repository:-
+   '''git clone https://github.com/your_username/stm32f446re_drivers.git
+   cd stm32f446re_drivers '''
+
