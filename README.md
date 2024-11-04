@@ -55,7 +55,7 @@ stm32f446re_drivers/
 # Getting Started
 1) Clone the repository:-
    
-   `git clone https://github.com/your_username/stm32f446re_drivers.git` & then `cd stm32f446re_drivers `
+   `git clone https://github.com/GradVizor/stm32f446re_drivers.git` & then `cd stm32f446re_drivers `
    
 2) Include the drivers in your project:-
    
